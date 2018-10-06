@@ -14,3 +14,4 @@ week3
 week4
 *ttt.html , ttt.css
 *blog.html , blog.css
+*profile.html
