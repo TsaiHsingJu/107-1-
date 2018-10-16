@@ -25,10 +25,10 @@ week4
 
 
 week5 
-*[ imagegallery.html，imagegallery.css]
-* [pet.html，pet.css
+ * [ imagegallery.html，imagegallery.css](https://github.com/TsaiHsingJu/107-1-Static-web-design/tree/master/w05)
+* [pet.html，pet.css](https://github.com/TsaiHsingJu/107-1-Static-web-design/tree/master/w05)
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIxNzQyODU1M119
+eyJoaXN0b3J5IjpbMTMyMTc0OTc2MF19
 -->
