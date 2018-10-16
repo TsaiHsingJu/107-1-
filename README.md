@@ -11,24 +11,24 @@ week2
 
 
 week3
- * [tku60.html ](
- * [div.html](
+ * [tku60.html ](https://github.com/TsaiHsingJu/107-1-Static-web-design/tree/master/w03)
+ * [div.html](https://github.com/TsaiHsingJu/107-1-Static-web-design/tree/master/w03-2)
 
 
 
 week4 
-* ttt.html，ttt.css
-* blog.html，blog.css 
-* profile.html
+* [ttt.html，ttt.css](https://github.com/TsaiHsingJu/107-1-Static-web-design/tree/master/w04)
+* [blog.html，blog.css ](https://github.com/TsaiHsingJu/107-1-Static-web-design/tree/master/w04)
+* [profile.html](https://github.com/TsaiHsingJu/107-1-Static-web-design/tree/master/w04-2)
 
 
 
 
 week5 
-* imagegallery.html，imagegallery.css
-* pet.html，pet.css
+*[ imagegallery.html，imagegallery.css]
+* [pet.html，pet.css
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3OTA2NDQzMThdfQ==
+eyJoaXN0b3J5IjpbMTIxNzQyODU1M119
 -->
