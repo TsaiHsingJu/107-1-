@@ -1,7 +1,7 @@
 #107-1-static-web-design
 
 week1
-*intro.html
+*[intro.html](
 
 week2
 *table.html
@@ -19,3 +19,6 @@ week4
 week5
 *imagegallery.html , imagegallery.css
 *pet.html , pet.css
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbMTAzNjYxMTIyOV19
+-->
