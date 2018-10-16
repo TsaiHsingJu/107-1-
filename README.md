@@ -1,18 +1,18 @@
 ＃107-1-靜態網頁設計
 
 week1
- * [intro.html
+ * [intro.html](https://github.com/TsaiHsingJu/107-1-Static-web-design/tree/master/w01)
 
 
 week2
- * table.html 
- * * myclass.html
+ * [table.html ](https://github.com/TsaiHsingJu/107-1-Static-web-design/tree/master/w02)
+ * [myclass.html](https://github.com/TsaiHsingJu/107-1-Static-web-design/tree/master/w02-2)
 
 
 
 week3
- * tku60.html 
- * * div.html
+ * [tku60.html ](
+ * [div.html](
 
 
 
@@ -30,5 +30,5 @@ week5
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUyMDE2NDAwMV19
+eyJoaXN0b3J5IjpbLTE3OTA2NDQzMThdfQ==
 -->
