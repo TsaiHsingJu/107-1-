@@ -1,15 +1,15 @@
 # 107-1-static-web-design
 
 ## week1
-*[intro.html
+*[intro.html](https://github.com/TsaiHsingJu/107-1-Static-web-design/tree/master/w01)
 
 ## week2
-*table.html
-*myclass.html
+*[table.html](https://github.com/TsaiHsingJu/107-1-Static-web-design/tree/master/w02)
+*[myclass.html](https://github.com/TsaiHsingJu/107-1-Static-web-design/tree/master/w02-2)
 
 ## week3
-*tku60.html
-*div.html
+*[tku60.html](
+*[div.html](
 
 ## week4
 *ttt.html , ttt.css
@@ -26,5 +26,5 @@
 ## week7
 *
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2Nzk0Nzc0NDddfQ==
+eyJoaXN0b3J5IjpbLTk3MTYyNzIxNl19
 -->
