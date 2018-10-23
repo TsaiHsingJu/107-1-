@@ -13,19 +13,19 @@
 
 ## week4
 *[ttt.html , ttt.css](https://github.com/TsaiHsingJu/107-1-Static-web-design/tree/master/w04)
-*[blog.html , blog.css](https://github.com/TsaiHsingJu/107-1-Static-web-design/tree/master/w04
+*[blog.html , blog.css](https://github.com/TsaiHsingJu/107-1-Static-web-design/tree/master/w04)
 *[profile.html](https://github.com/TsaiHsingJu/107-1-Static-web-design/tree/master/w04-2)
 
 ## week5
-*[imagegallery.html , imagegallery.css](
-*[pet.html , pet.css](
+*[imagegallery.html , imagegallery.css](https://github.com/TsaiHsingJu/107-1-Static-web-design/tree/master/w05)
+*[pet.html , pet.css](https://github.com/TsaiHsingJu/107-1-Static-web-design/tree/master/w05)
 
 ## week6
-*[pet.html , pet.css](
-*FLEXBOX FROGGY
+*[pet.html , pet.css](https://github.com/TsaiHsingJu/107-1-Static-web-design/tree/master/w05)
+*[FLEXBOX FROGGY](https://github.com/TsaiHsingJu/107-1-Static-web-design/tree/master/w06-2/FLEXBOX%20FROGGY)
 
 ## week7
 *
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI5ODI1OTYxM119
+eyJoaXN0b3J5IjpbMjA1OTY1ODY3NF19
 -->
