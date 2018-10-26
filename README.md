@@ -26,7 +26,7 @@
 
 ## week7
 * [tkuasign](https://github.com/TsaiHsingJu/107-1-Static-web-design/tree/master/w07)
-* [galleryTemplate]()
+* [galleryTemplate](https://github.com/TsaiHsingJu/107-1-Static-web-design/tree/master/w07-2)
 ## week8
 <!--stackedit_data:
 eyJoaXN0b3J5IjpbNjY2NTYxMjc2XX0=
