@@ -38,7 +38,7 @@
 * [bootstrap_sandbox_starter](https://github.com/TsaiHsingJu/107-1-Static-web-design/tree/master/w11/bootstrap_sandbox_starter)
 
 ## week12
-* [bootstrap_sandbox_starter](https://github.com/TsaiHsingJu/107-1-Static-web-design/tree/master/w12)
+* [bootstrap_sandbox_starter](https://github.com/TsaiHsingJu/107-1-Static-web-design/tree/master/w12/bootstrap_sandbox_starter)
 
 * [bs4boiler](https://github.com/TsaiHsingJu/107-1-Static-web-design/tree/master/w12/bs4boiler/bs4boiler)
 <!--stackedit_data:
